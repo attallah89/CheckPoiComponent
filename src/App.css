@@ -1,0 +1,12 @@
+.App {
+
+  width: 20%;
+  height: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 6%;
+  border-style: double;
+  border-color: black;
+  background-color: white;
+}
